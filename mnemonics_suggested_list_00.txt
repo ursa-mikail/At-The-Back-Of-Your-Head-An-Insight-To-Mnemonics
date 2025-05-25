@@ -1,0 +1,263 @@
+<pre>
+MNEMONICS TABLE_People_2019-03.30_1440hr
+.
+├── 00-09
+│   ├── 00. (null) Sadako.jpg
+│   ├── 01. (null) Apocalypse.jpg
+│   ├── 02. Sleeping Beauty.jpg
+│   ├── 03. Santa Claus.jpg
+│   ├── 03. Swedish Chef.jpg
+│   ├── 04. (null) Medusa.jpg
+│   ├── 05. Snake Eyes.jpg
+│   ├── 06. (null) Obelix.jpg
+│   ├── 07. Pegasus.jpg									**
+│   ├── 08. (null) Q.jpg
+│   ├── 09. Steve Irwin.jpg
+│   ├── archive
+│   │   ├── 00. (null) Syndrome.jpg
+│   │   ├── 00. Steven Spielberg.jpg
+│   │   ├── 00. Sophie Scholl.jpg
+│   │   ├── 01. Sun Tze.jpg
+│   │   ├── 01. Sun Tze_00.jpg
+│   │   ├── 01. Swamp Thing.jpg
+│   │   ├── 02. Stephen King.jpg
+│   │   ├── 02. Shavarsh Karapetyan.jpg
+│   │   ├── 03. Samuel P. Langley.jpg
+│   │   ├── 03. Scarecrow.jpg
+│   │   ├── 03. Song Ci.jpg
+│   │   ├── 04. Spider man.jpg
+│   │   ├── 04. Scooby Doo.jpg
+│   │   ├── 05. Zhou EnLai.jpg
+│   │   ├── 05. ShenNong.jpg
+│   │   ├── 06. Sigmund Freud.jpg
+│   │   ├── 07. Pegasus.jpg
+│   │   ├── 07. Scott M. Peck.jpg 
+│   │   ├── 08. Stephen W. Hawking
+│   │   └── 09. Salman Rushdie.jpg
+│   └── Thumbs.db
+├── 10-19
+│   ├── 10. Arnold Schwarzenegger.jpg
+│   ├── 11. Jack Jack.jpg
+│   ├── 12. Astro Boy.jpg
+│   ├── 13. Jesus Christ.jpg
+│   ├── 14. Tree Demoness (千年树姥).jpg
+│   ├── 15. Albert Einstein.jpg
+│   ├── 16. The Fly.jpg
+│   ├── 17. John Paul II.jpg
+│   ├── 18. Adolf Hitler.jpg
+│   ├── 19. Jack The Ripper.jpg
+│   └── archive
+│       ├── 11. Andre Agassi.jpg
+│       ├── 11. Alfred Adler.jpg
+│       ├── 12. Alexander G. Bell.jpg
+│       ├── 14. Jean Dunant.jpg
+│       ├── 14. Joseph Merrick.jpg
+│       ├── 14. Aqua Man   
+│       ├── 16. Terry Fox.jpg
+│       ├── 17. John Paul.jpg
+│       ├── 17. Audrey de Grey.jpg
+│       └── 19. John Ruskin.jpg
+├── 20-29
+│   ├── 20. Bram Stoker.jpg
+│   ├── 21. Kim Jong-il.jpg
+│   ├── 22. BIG BIRD.jpg
+│   ├── 23. Bruce Lee.jpg
+│   ├── 24. Bat Man.jpg
+│   ├── 25. King Neptune.jpg
+│   ├── 26. Kermit the Frog 
+│   ├── 27. King Pin.png
+│   ├── 28. Benny Hill.jpg
+│   ├── 29. Kevin Richardson ( a.k.a The Lion Whisperer)
+│   └── archive
+│       ├── 21. Karl Guthe Jansky.jpg
+│       ├── 21. Korechika Anami.jpg
+│       ├── 22. BARBA BEAU.jpg
+│       ├── 24. Kevin Mitnick.jpg
+│       ├── 25. Bernhard Neumann.jpg
+│       ├── 25. Bill Nye
+│       ├── 26. Bolo Yeung
+│       ├── 26. Benjamin Franklin.jpg
+│       ├── 27. Uri Geller.jpg
+│       └── 29. Bertrand Russell.jpg
+├── 30-39
+│   ├── 30. Vassili Zaitsev.jpg
+│   ├── 31. Captain Americar.jpg
+│   ├── 32. Ludwig van Beethoven.jpg
+│   ├── 33. CAPTAIN COLD
+│   ├── 34. Cookie Monster
+│   ├── 35. Charles Xavier.jpg
+│   ├── 36. Lord Farquaad.jpg
+│   ├── 37. Lady Godiva.jpg
+│   ├── 38. Captain Hook.jpg
+│   ├── 39. Cardinal_Raker.jpg
+│   └── archive
+│       ├── 31. Carl Jung.jpg
+│       ├── 31. Li JiaCheng
+│       ├── 33. CHRISTOPHER COLUMBUS
+│       ├── 34. Charles Darwin
+│       ├── 36. Léon Foucault.jpg
+│       ├── 36. Viktor Frankl.jpg
+│       ├── 37. Che Guevara.jpg
+│       ├── 37. Luciano Pavarotti.jpg
+│       ├── 38. Victor Hugo.jpg
+│       ├── 39. Charles Richter.jpg
+│       └── 39. Lee Iacocca.jpg
+├── 40-49
+│   ├── 40. Mr Snuffleupagus.jpg
+│   ├── 41. Mother Teresa.jpg
+│   ├── 42. Dragon Ball.jpg
+│   ├── 43. Dr Vendetta									**
+│   ├── 44. MICKEY MOUSE.jpg
+│   ├── 45. Mr. X (Resident Evil, aka Tyrant)
+│   ├── 46. Masutatsu Oyama.png
+│   ├── 47. Miss Piggy.jpg
+│   ├── 48. Dugu QiuBai.jpg
+│   ├── 49. Mr Incredible.jpg
+│   └── archive
+│       ├── 40. Mo Zi.jpg
+│       ├── 40. William Shakespeare.jpg
+│       ├── 42. Derren Brown.jpg
+│       ├── 42. William Bullock
+│       ├── 44. Wonder Woman
+│       ├── 44. MARY MAGDALENE
+│       ├── 45. Malcolm X
+│       ├── 46. Dominic O'Brien
+│       ├── 47. Mahatma Gandhi
+│       ├── 47. Dead Pool
+│       └── 48. Doug Hall.jpg
+├── 50-59
+│   ├── 50. Edward Scissorhands.jpg
+│   ├── 51. Neil Armstrong.jpg
+│   ├── 52. Napolean Bonaparte.jpg
+│   ├── 53. Night_Crawler
+│   ├── 54. Edna Mode
+│   ├── 55. Xiao Xing.jpg
+│   ├── 56. Nameless One
+│   ├── 57. ElastiGirl
+│   ├── 58. E. Honda aka Edmund Honda
+│   ├── Earl Reagan (Time traveler, Trans-Time Corp. Hunts dinosaurs to make canned food.)
+│   └── archive
+│       ├── 50. Nezha.jpg
+│       ├── 52. Elizbeth Bathory.jpg
+│       ├── 53. Eddie Carmel.jpg
+│       ├── 53. Nadia Comaneci
+│       ├── 54. Niccolo Machiavelli
+│       ├── 55. XIE XUN
+│       ├── 55. Edward Elric (fullmetal alchemist)
+│       ├── 56. Xiang Yu
+│       ├── 57. Eva Per¢n.jpg
+│       ├── 58. Ernest Hemingway
+│       ├── 58. Edwin Hubble
+│       └── 59. Erno Rubik
+├── 60-69
+│   ├── 60. Flat Stanley.jpg
+│   ├── 61. FeeJee (Mermaid)
+│   ├── 62. Yasmine Bleeth.jpg
+│   ├── 63. Yan Chixia (燕赤霞) 
+│   ├── 64. Yoda.jpg
+│   ├── 65. Florence Nightingale.jpg
+│   ├── 66. FRED FLINTSTONE.jpg
+│   ├── 67. Yang Guo.jpg
+│   ├── 68. Fritz Haber (Father of chemical warfare)
+│   ├── 69. Franz Reichelt.jpg
+│   └── archive
+│       ├── 60. Frank Sinatra.png
+│       ├── 60. Frederick Soddy.jpg
+│       ├── 61. Oliver Twist.jpg
+│       ├── 63. Frederic Chopin.jpg
+│       ├── 63. Yuan Longping.png
+│       ├── 64. Frank Mesmer.jpg
+│       ├── 67. Oscar the Grouch.jpg
+│       ├── 67. Yang Guo.jpg
+│       ├── 68. Oliver Holmes.jpg
+│       ├── 68. Face Hugger
+│       ├── 69. Franklin D. Roosevelt.jpg
+│       └── 69. Franz Reichelt (Parachute inventor)
+├── 70-79
+│   ├── 70. Gollum Smeagol.jpg
+│   ├── 71. Green Arrow.jpg
+│   ├── 72. Puss-in-Boots.jpg
+│   ├── 73. Green Lantern.jpg
+│   ├── 74. Gingerbread man.jpg
+│   ├── 75. Gustave Eiffel.jpg
+│   ├── 76. Guan Yu.jpg
+│   ├── 77. GALDORF THE GRAY.jpg
+│   ├── 78. (Mr) Potato Head.jpg
+│   ├── 79. Poison Ivy.jpg
+│   └── archive
+│       ├── 70. George Soros.jpg
+│       ├── 71. Patch Adams.jpg
+│       ├── 72. Genghis Khan.jpg
+│       ├── 73. George Lucas.jpg
+│       ├── 73. Georges Lemaître.jpg
+│       ├── 74. George Washington.jpg
+│       ├── 74. Gregor J. Mendel.jpg
+│       ├── 76. George Orwell.jpg
+│       ├── 77. GALILEO GALILEI.jpg
+│       ├── 77. GREEN GOBLIN
+│       ├── 78. Grace Hopper.jpg
+│       ├── 78. Paris Hilton.jpg
+│       ├── 78. Peter Higgs.png
+│       ├── 78. Grigori Rasputin.jpg
+│       └── 79. Grimp Reaper
+├── 80-89
+│   ├── 80. Homer Simpson.jpg
+│   ├── 81. Hua Tuo.jpg
+│   ├── 82. Hentai Kamen
+│   ├── 83. High Lander.jpg
+│   ├── 84. Humpty Dumpty.jpg
+│   ├── 85. Hunchback of Notre dame.jpg
+│   ├── 86. Hawk Fire.jpg
+│   ├── 87. Q, Post-Singularity Era (PSE).jpg
+│   ├── 88. Gandalf the Grey.jpg
+│   ├── 88. Hei Hei
+│   ├── 89. Hanuman (of Ramayana).jpg
+│   └── archive
+│       ├── 82. Hell Boy
+│       ├── 82. Helen Keller.jpg
+│       ├── 83. Harry Lorayne.jpg
+│       ├── 83. Hillary Clinton.jpg
+│       ├── 84. Hajji Mahmud.jpg
+│       ├── 84. Henry Winstanley.jpg
+│       ├── 85. Henri Nestlé.jpg
+│       ├── 85. Hikaru Nakamura.jpg
+│       ├── 85. Horatio Nelson.jpg
+│       ├── 85. Hugh Everett.jpg
+│       ├── 86. Henry Ford.jpg
+│       ├── 87. Henri Poincaré.jpg
+│       ├── 87. Hilary Putnam.jpg
+│       ├── 88. HARRY HOUDINI
+│       ├── 88. Green Goblin.jpg
+│       ├── 88. Hendrich Hertz.jpg
+│       ├── 89. Helena Rasiowa.jpg
+│       └── 89. Hans Rosling.jpg
+├── 90-99
+│   ├── 90. Red Skull.jpg
+│   ├── 91. Indiana Jones.jpg
+│   ├── 92. Runny Babbit.jpg
+│   ├── 93. Robo Cop.jpg
+│   ├── 94. Ronald McDonald.jpg
+│   ├── 95. RX-78-2 Gundam.jpg
+│   ├── 96. Iron Fist.jpg
+│   ├── 97. Iron Giant.jpg
+│   ├── 98. Incredible Hulk.jpg
+│   ├── 99. Road Runner 
+│   └── archive
+│       ├── 90. Regina Silveira.jpg
+│       ├── 90. Regina Silveira's work.jpg
+│       ├── 90. Richard Simmons.jpg
+│       ├── 92. Raymond Babbitt.jpg
+│       ├── 92. Robert Koch.jpg
+│       ├── 93. Richard Clayderman.jpg
+│       ├── 93. Robinson Crusoe.jpg
+│       ├── 93. René Laennec.jpg
+│       ├── 95. Issac Newton.jpg
+│       ├── 96. Robert Frost.jpg
+│       ├── 96. Rosalind Franklin.jpg
+│       ├── 97. Ivan Pavlov.jpg
+│       ├── 97. Inspector Gadget
+│       ├── 98. Ruth Handler.jpg
+│       ├── 99. Roger Rabbit
+│       └── 99. Ronald Reagan.jpg
+
+</pre>
