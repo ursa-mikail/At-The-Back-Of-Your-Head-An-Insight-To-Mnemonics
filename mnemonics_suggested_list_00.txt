@@ -89,6 +89,7 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │   ├── 36. Lord Farquaad.jpg
 │   ├── 37. Lady Godiva.jpg
 │   ├── 38. Captain Hook.jpg
+│   ├── 39. Lee Iacocca
 │   ├── 39. Cardinal_Raker.jpg
 │   └── archive
 │       ├── 31. Carl Jung.jpg
@@ -251,7 +252,8 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │       ├── 93. Richard Clayderman.jpg
 │       ├── 93. Robinson Crusoe.jpg
 │       ├── 93. René Laennec.jpg
-│       ├── 95. Issac Newton.jpg
+│       ├── 95. Issac Newton
+│       ├── 95. Pliny The Elder
 │       ├── 96. Robert Frost.jpg
 │       ├── 96. Rosalind Franklin.jpg
 │       ├── 97. Ivan Pavlov.jpg

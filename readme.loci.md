@@ -23,6 +23,8 @@
 
 ## Loci
 
+Combining the Journey Method with the Roman Room Method: different areas within a location of a journey.
+
 ```
 00. Movie studio
 01. Military camp
