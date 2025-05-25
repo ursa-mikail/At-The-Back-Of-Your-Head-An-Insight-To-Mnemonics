@@ -1,4 +1,28 @@
-# People
+# 'Centum Amici' method ('100 Friends method', a.k.a. the O'Brien-Chan method)
+
+A number of systems exist for converting digits into letters, for example, the Major System (https://artofmemory.com/blog/major-system/).
+
+
+Long numbers are chunked in 4s. The first 2 digits are converted into a person, and the second 2 digits become an action.
+So the number 1133 would be converted to an image of Andre Agassi swinging a cane, while the number 3311 could be converted into an image of Charlie Chaplin playing tennis.
+Memories are constructed by converting numbers in a sequence into persons and actions within a story. The long number 27636339, for example, could be chunked into 2763 6339 and then converted into BGSC SCCN. If the memorizer has also associated Santa Claus delivering presents with SC, then the chunk 2763 would represent Bill Gates (27 = BG) delivering presents while 6339 would represent Santa Claus performing a roundhouse kick (39 = CN = Chuck Norris). The remembered story, therefore, could be that Bill Gates delivered presents and then got roundhouse kicked by Santa Claus.
+The 4-digit compound images are then placed along imaginary journeys (https://artofmemory.com/blog/method-of-loci/).
+
+Ref:
+1. https://en.wikipedia.org/wiki/Katapayadi_system
+2. https://artofmemory.com/wiki/Major_System
+3. https://artofmemory.com/wiki/Aim%C3%A9_Paris
+
+```
+As a start, do this: speak to 3 random people on the street everyday. Start from basic questions, just even asking for time or direction.
+Next: Every 10 days scale up your question, you can ask more meaningful questions like - “May I also ask about the watch you are wearing / the book you are reading?” or “May I know where you got your white shirt? I like to the design.” or “Could I have your opinion on where is the best sandwich in town? I am unfamiliar to the neighborhood.”
+Scale up further when your confidence catches the momentum: Like using cold reading methods, asking and making remarks like “I noticed you are a left-hander” or “I like your white shirt, but I am not sure if I may look good in it” (… pause and wait for the response), or “___ (random name)? ” (if s/he is a familiar stranger, i.e. for example, someone you meet at the same place on the road to work, etc). The next time, it will be much easier to have a deeper conversation. This is not deemed dishonest, you just want to find a precedent to overcome the barrier of unfamiliarity.
+
+Next stage: To move from acquaintance to friendship, once you get the details from the conversations, you will be able to find commonalities. Invite the person for coffee, etc.
+
+Use the 100 Day Scheme, this will be part of the domain - ‘Pneuma’.
+
+```
 
 ### Ideal Model
 ===========
