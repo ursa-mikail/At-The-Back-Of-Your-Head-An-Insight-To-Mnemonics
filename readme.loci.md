@@ -23,6 +23,7 @@
 
 ## Loci
 
+```
 00. Movie studio
 01. Military camp
 02. Twilight Zone/ ghost village
@@ -132,9 +133,11 @@
 97. Russian cult monastery
 98. Barbie doll factory
 99. Whitehouse
+```
 
 ### Sample
 
+```
 Loci
 Home
 Playground
@@ -172,9 +175,11 @@ Takashimaya, Orchard Road
 ION, Orchard Road
 Botanical Garden
 Turf Club (old)
+```
 
 ## Body Loci-System
 
+```
 1. Head
 2. Eyes
 3. Nose (shape of base of nose)
@@ -200,15 +205,17 @@ Turf Club (old)
 23. Heart (xing1)
 24. Liver (gan1)
 25. Kidney (Shen4)
+```
 
 ### joints system
 
+```
 26. Elbow (cue: B. Franklin 'lightning strike feeling: ')
 27. Knee (U. Geller - bending knees ...)
 28. Ankle (B. Hill erogenous on ladies' ankles)
 29. Shoulder (B. Russell - heavy burden)
 30. Neck (side) (V. Zaitsev aims at the side of neck)
-
+```
 
 ```
 ======================================= END OF MNEMONICS TABLE =======================================
