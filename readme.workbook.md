@@ -1,5 +1,6 @@
 ### Practice
 
+* relate people/ faces with place and activities and events
 
      45
      |
