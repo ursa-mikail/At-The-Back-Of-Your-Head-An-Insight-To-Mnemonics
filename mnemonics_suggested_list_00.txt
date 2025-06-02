@@ -59,7 +59,7 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │       └── 19. John Ruskin.jpg
 ├── 20-29
 │   ├── 20. Bram Stoker.jpg
-│   ├── 21. Kim Jong-il.jpg
+│   ├── 21. Udō Jin-e 
 │   ├── 22. BIG BIRD.jpg
 │   ├── 23. Bruce Lee.jpg
 │   ├── 24. Bat Man.jpg
@@ -69,6 +69,7 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │   ├── 28. Benny Hill.jpg
 │   ├── 29. Kevin Richardson ( a.k.a The Lion Whisperer)
 │   └── archive
+│       ├── 21. Kim Jong-il
 │       ├── 21. Karl Guthe Jansky.jpg
 │       ├── 21. Korechika Anami.jpg
 │       ├── 22. BARBA BEAU.jpg
@@ -247,7 +248,8 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │       ├── 90. Regina Silveira.jpg
 │       ├── 90. Regina Silveira's work.jpg
 │       ├── 90. Richard Simmons.jpg
-│       ├── 92. Raymond Babbitt.jpg
+│       ├── 92. Rurouni Kenshin
+│       ├── 92. Raymond Babbitt
 │       ├── 92. Robert Koch.jpg
 │       ├── 93. Richard Clayderman.jpg
 │       ├── 93. Robinson Crusoe.jpg
