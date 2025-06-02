@@ -153,7 +153,7 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 ├── 60-69
 │   ├── 60. Flat Stanley.jpg
 │   ├── 61. FeeJee (Mermaid)
-│   ├── 62. Yasmine Bleeth.jpg
+│   ├── 62. Frozone B. (Lucius Best) 
 │   ├── 63. Yan Chixia (燕赤霞) 
 │   ├── 64. Yoda.jpg
 │   ├── 65. Florence Nightingale.jpg
@@ -165,11 +165,11 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │       ├── 60. Frank Sinatra.png
 │       ├── 60. Frederick Soddy.jpg
 │       ├── 61. Oliver Twist.jpg
+│       ├── 62. Yasmine Bleeth.jpg
 │       ├── 63. Frederic Chopin.jpg
 │       ├── 63. Yuan Longping.png
 │       ├── 64. Frank Mesmer.jpg
 │       ├── 67. Oscar the Grouch.jpg
-│       ├── 67. Yang Guo.jpg
 │       ├── 68. Oliver Holmes.jpg
 │       ├── 68. Face Hugger
 │       ├── 69. Franklin D. Roosevelt.jpg
