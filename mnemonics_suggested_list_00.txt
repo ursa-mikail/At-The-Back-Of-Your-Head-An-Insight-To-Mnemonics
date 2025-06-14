@@ -82,7 +82,7 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │       └── 29. Bertrand Russell.jpg
 ├── 30-39
 │   ├── 30. Vassili Zaitsev.jpg
-│   ├── 31. Captain Americar.jpg
+│   ├── 31. Captain America.jpg
 │   ├── 32. Ludwig van Beethoven.jpg
 │   ├── 33. CAPTAIN COLD
 │   ├── 34. Cookie Monster
