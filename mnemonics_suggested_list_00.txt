@@ -90,7 +90,6 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │   ├── 36. Lord Farquaad.jpg
 │   ├── 37. Lady Godiva.jpg
 │   ├── 38. Captain Hook.jpg
-│   ├── 39. Lee Iacocca
 │   ├── 39. Cardinal_Raker.jpg
 │   └── archive
 │       ├── 31. Carl Jung.jpg
