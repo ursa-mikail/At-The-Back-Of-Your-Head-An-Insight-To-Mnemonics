@@ -11,7 +11,7 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │   ├── 05. Snake Eyes.jpg
 │   ├── 06. (null) Obelix.jpg
 │   ├── 07. Pegasus.jpg									**
-│   ├── 08. (null) Q.jpg
+│   ├── 08. Stephen W. Hawking
 │   ├── 09. Steve Irwin.jpg
 │   ├── archive
 │   │   ├── 00. (null) Syndrome.jpg
@@ -210,7 +210,6 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │   ├── 85. Hunchback of Notre dame.jpg
 │   ├── 86. Hawk Fire.jpg
 │   ├── 87. Q, Post-Singularity Era (PSE).jpg
-│   ├── 88. Gandalf the Grey.jpg
 │   ├── 88. Hei Hei
 │   ├── 89. Hanuman (of Ramayana).jpg
 │   └── archive
