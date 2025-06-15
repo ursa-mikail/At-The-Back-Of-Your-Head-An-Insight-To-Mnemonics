@@ -108,7 +108,7 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │   ├── 41. Mother Teresa.jpg
 │   ├── 42. Dragon Ball.jpg
 │   ├── 43. Dr Vendetta									**
-│   ├── 44. MICKEY MOUSE.jpg
+│   ├── 44. Mega Mind
 │   ├── 45. Mr. X (Resident Evil, aka Tyrant)
 │   ├── 46. Masutatsu Oyama.png
 │   ├── 47. Miss Piggy.jpg
@@ -121,6 +121,7 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │       ├── 42. William Bullock
 │       ├── 44. Wonder Woman
 │       ├── 44. MARY MAGDALENE
+│       ├── 44. MICKEY MOUSE
 │       ├── 45. Malcolm X
 │       ├── 46. Dominic O'Brien
 │       ├── 47. Mahatma Gandhi
