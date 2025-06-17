@@ -10,7 +10,7 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │   ├── 04. (null) Medusa.jpg
 │   ├── 05. Snake Eyes.jpg
 │   ├── 06. (null) Obelix.jpg
-│   ├── 07. Pegasus.jpg									**
+│   ├── 07. (null) Gozilla									**
 │   ├── 08. Stephen W. Hawking
 │   ├── 09. Steve Irwin.jpg
 │   ├── archive
