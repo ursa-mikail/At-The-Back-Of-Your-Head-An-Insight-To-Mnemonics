@@ -73,6 +73,7 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │       ├── 21. Karl Guthe Jansky.jpg
 │       ├── 21. Korechika Anami.jpg
 │       ├── 22. BARBA BEAU.jpg
+│       ├── 24. Bomb Voyage
 │       ├── 24. Kevin Mitnick.jpg
 │       ├── 25. Bernhard Neumann.jpg
 │       ├── 25. Bill Nye
