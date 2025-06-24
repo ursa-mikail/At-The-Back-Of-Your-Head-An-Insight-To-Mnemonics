@@ -138,7 +138,7 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │   ├── 56. Nameless One
 │   ├── 57. ElastiGirl
 │   ├── 58. E. Honda aka Edmund Honda
-│   ├── Earl Reagan (Time traveler, Trans-Time Corp. Hunts dinosaurs to make canned food.)
+│   ├── 59. Earl Reagan (Time traveler, Trans-Time Corp. Hunts dinosaurs to make canned food.)
 │   └── archive
 │       ├── 50. Nezha.jpg
 │       ├── 52. Elizbeth Bathory.jpg
