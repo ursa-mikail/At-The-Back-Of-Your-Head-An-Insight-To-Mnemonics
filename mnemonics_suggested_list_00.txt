@@ -117,8 +117,9 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │   ├── 49. Mr Incredible.jpg
 │   └── archive
 │       ├── 40. Mo Zi.jpg
-│       ├── 40. William Shakespeare.jpg
-│       ├── 42. Derren Brown.jpg
+│       ├── 40. William Shakespeare
+│       ├── 41. Worm Tongue
+│       ├── 42. Derren Brown
 │       ├── 42. William Bullock
 │       ├── 44. Wonder Woman
 │       ├── 44. MARY MAGDALENE
@@ -129,9 +130,9 @@ MNEMONICS TABLE_People_2019-03.30_1440hr
 │       ├── 47. Dead Pool
 │       └── 48. Doug Hall.jpg
 ├── 50-59
-│   ├── 50. Edward Scissorhands.jpg
-│   ├── 51. Neil Armstrong.jpg
-│   ├── 52. Napolean Bonaparte.jpg
+│   ├── 50. Edward Scissorhands
+│   ├── 51. Neil Armstrong
+│   ├── 52. Napolean Bonaparte
 │   ├── 53. Night_Crawler
 │   ├── 54. Edna Mode
 │   ├── 55. Xiao Xing.jpg
