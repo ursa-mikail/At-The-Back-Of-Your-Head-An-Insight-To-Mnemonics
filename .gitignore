@@ -1,5 +1,6 @@
 .DS_Store
 # find . -name ".DS_Store" -type f -delete
+# find . -name ".DS_Store" -type f -exec rm -f {} +
 # connection script #
 ###################
 connect.sh
